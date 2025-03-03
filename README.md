@@ -52,3 +52,6 @@ OpenMP Implementation
 ``` bash
 ./omp.bin <url>
 ```
+
+### Notes
+- There may be bugs this was a final project for a class that turned into a tool that I use every once in awhile

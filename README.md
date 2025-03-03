@@ -38,7 +38,7 @@ chmod +x helper.sh
 
 ### How to run
 
-Note: you will need to give it the link to the full url with the path to the sitemap.xml eg. https://dsu.edu/sitemap.xml
+Note: you will need to give it the link to the full url with the path to the sitemap.xml eg. https://EXAMPLE.EXAMPLE/sitemap.xml
 
 Sequential Implementation
 ``` bash
